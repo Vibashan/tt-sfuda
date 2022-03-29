@@ -16,11 +16,11 @@ Solving the domain shift problem during inference is essential in medical imagin
 
 ## Using the code:
 
-The code is stable while using Python 3.6.13, CUDA >=10.1
+The code is stable while using Python 3.6.13, CUDA >=10.2
 
 - Clone this repository:
 ```bash
-git clone https://github.com/Vibashan/tt-sfuda
+git clone https://github.com/Vibashan/tt-sfuda.git
 cd tt-sfuda/
 ```
 
