@@ -389,6 +389,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     args = Parser(args.cfg, log='test').add_args(args)
 
+    #### Update the path correspondingly
     args.data_dir = '/media/vibsss/src_free/medical_src_free/github/TT_SFUDA_3D/data/train/all'
     args.valid_list = 'val.txt'
     args.saving = True

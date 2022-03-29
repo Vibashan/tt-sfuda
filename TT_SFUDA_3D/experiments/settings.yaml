@@ -1,4 +1,6 @@
 
+#### Update the path correspondingly
+
 root: /media/vibsss/src_free/medical_src_free/github/TT_SFUDA_3D/Codes_3d/data
 # The location to store the training data
 data_dir: /media/vibsss/src_free/medical_src_free/github/TT_SFUDA_3D/data/train/all

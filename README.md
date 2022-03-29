@@ -88,33 +88,7 @@ Download the source-trained model weights for 3D into TT_SFUDA_3D [Link](https:/
 
 ## Training and Validation
 
-Please follow the steps for 2D and 3D SFUDA experiments in TT_SFUDA_2D and TT_SFUDA_3D.
-
-
-DPG weights: [Link](https://drive.google.com/drive/folders/1CqdLQyBBQQmjrFxub7bzNuLeXHQtMSTo?usp=sharing)
-
-1. Evaluate UNet with no adaptation
-
-```
-python val_unet.py --name <source model name> --target <target dataset> 
-```
-For example, if you want to evaluate the model for CHASE to RITE domain shift, the code will be 
-
-```
-python val_unet.py --name chase_unet --target rite 
-```
-
-2. Evaluate Adaptive UNet
-```
-python val_adaptiveunet.py --name <source model name> --target <target dataset> --dpg <folder directory of dpg weights>
-```
-
-For example, if you want to evaluate the model for CHASE to RITE domain shift, the code will be 
-
-```
-python val_adaptiveunet.py --name chase_adaptiveunet --target rite --dpg "./pretrain_fundus/"
-```
-
+For 2D and 3D SFUDA experiments, please follow the steps mentioned in TT_SFUDA_2D and TT_SFUDA_3D README.md.
 
 ### Acknowledgements:
 
