@@ -33,7 +33,7 @@ conda activate tt_sfuda
 
 
 ## 2D Datasets
-1) Download using this [Link](https://blogs.kingston.ac.uk/retinal/chasedb1/).
+1) Download using this [Link](https://drive.google.com/drive/folders/1Gd8Xfhvm2B-YwEm4YqqHYnk5DpRC8bkc?usp=sharing).
 
 Make sure the datasets are arranged in the following structure:
 
@@ -82,9 +82,9 @@ TT_SFUDA_3d/data
 
 ## Source-trained Model Weights
 
-Download the source-trained model weights for 2D into TT_SFUDA_2D [Link](https://drive.google.com/drive/folders/1_8gMlFQHlzpEQyzviET4UzRRDiURWbjk?usp=sharing)
+Download the source-trained model weights for 2D into TT_SFUDA_2D [Link](https://drive.google.com/drive/folders/1AoWojSlOMhHLeHLCgDWzbeOR4ME7a9Xq?usp=sharing)
 
-Download the source-trained model weights for 3D into TT_SFUDA_3D [Link](https://drive.google.com/drive/folders/1_8gMlFQHlzpEQyzviET4UzRRDiURWbjk?usp=sharing)
+Download the source-trained model weights for 3D into TT_SFUDA_3D [Link](https://drive.google.com/drive/folders/1I9cfpmdsG0ZnzKytekap0qM2AA__jCri?usp=sharing)
 
 ## Training and Validation
 
