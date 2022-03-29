@@ -1,4 +1,4 @@
-# On-the-Fly Adaptation
+# Target and Task Source-Free Domain Adaptation
 
 Official Pytorch Code base for [Target and Task specific Source-Free Domain Adaptive Image Segmentation]()
 
