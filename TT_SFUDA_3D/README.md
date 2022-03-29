@@ -1,7 +1,7 @@
 
 ## Requirement.
 
-Download the [Dataset]() and [Source-trained Model Weights]() as mentioned previously. 
+Download the [Dataset](https://www.med.upenn.edu/cbica/brats2019/data.html) and [Source-trained Model Weights](https://drive.google.com/drive/folders/1I9cfpmdsG0ZnzKytekap0qM2AA__jCri?usp=sharing) as mentioned previously. 
 
 Please make sure dataset path and source-trained path are changed accordingly in "tt_sfuda_3d.py" script.
 
