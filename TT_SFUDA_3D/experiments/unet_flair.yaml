@@ -1,0 +1,34 @@
+net: unet
+net_params:
+  n: 4
+  dropout: 0.3
+  norm: bn
+criterion: cross_entropy_dice
+alpha: 0.01
+dataset: SingleData
+seed: 2001
+gpu: 0
+batch_size: 2
+num_epochs: 200
+save_freq: 50   
+valid_freq: 50   
+start_iter: 0
+opt: Adam
+opt_params:
+  lr: 0.00001
+  weight_decay: 0.0001
+  amsgrad: true
+workers: 1
+stage1: 1
+stage2: 2
+schedule: {150, 250} 
+train_list: all.txt
+train_transforms: 
+  Compose([
+    NumpyType((np.float32, np.int64)),
+    ])
+test_transforms:
+  Compose([
+    Pad((0, 0, 0, 0, 0)),
+    NumpyType((np.float32, np.int64)),
+    ])
