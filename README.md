@@ -2,7 +2,7 @@
 
 Official Pytorch Code base for [Target and Task specific Source-Free Domain Adaptive Image Segmentation]()
 
-[Paper]() | [Project page]()
+[Paper]() | [Project page](https://viudomain.github.io/tt-sfuda-web/)
 
 ## Introduction
 
