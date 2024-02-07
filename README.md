@@ -10,7 +10,7 @@ Solving the domain shift problem during inference is essential in medical imagin
 
 
 <p align="center">
-  <img src="imgs/archi.png" width="800"/>
+  <img src="archi.png" width="800"/>
 </p>
 
 
