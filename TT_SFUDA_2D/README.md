@@ -1,7 +1,7 @@
 
 ## Requirement.
 
-Download the [Dataset]() and [Source-trained Model Weights]() as mentioned previously. 
+Download the [Dataset](https://drive.google.com/drive/folders/1Gd8Xfhvm2B-YwEm4YqqHYnk5DpRC8bkc?usp=sharing) and [Source-trained Model Weights](https://drive.google.com/drive/folders/1AoWojSlOMhHLeHLCgDWzbeOR4ME7a9Xq?usp=sharing) as mentioned previously. 
 
 ## Train the model.
 
