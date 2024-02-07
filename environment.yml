@@ -1,4 +1,4 @@
-name: tt_sfuda
+name: tt_sfud4
 channels:
   - pytorch
   - defaults
